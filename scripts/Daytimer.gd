@@ -3,7 +3,7 @@ extends Node
 
 
 @onready var label = $"../DayTimer"
-var time_left = 10.0
+var time_left = 120.0
 
 
 func _ready():
